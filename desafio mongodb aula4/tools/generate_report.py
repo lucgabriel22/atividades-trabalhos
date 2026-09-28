@@ -24,7 +24,7 @@ from reportlab.platypus import (
 )
 
 ROOT = Path(__file__).parents[1]
-OUTPUT = ROOT / "output" / "pdf" / "relatorio_tecnico_nexofrota.pdf"
+OUTPUT = ROOT / "relatorio_tecnico_nexofrota.pdf"
 
 NAVY = colors.HexColor("#0F172A")
 SLATE = colors.HexColor("#334155")
@@ -813,10 +813,10 @@ All checks passed!
         Spacer(1, 10 * mm),
         paragraph("Artefatos", "h2"),
         paragraph(
-            "Código-fonte: projeto-05-nexofrota/src<br/>"
-            "Testes: projeto-05-nexofrota/tests<br/>"
-            "Decisões: projeto-05-nexofrota/docs/DECISOES_ARQUITETURA.md<br/>"
-            "Relatório editável: projeto-05-nexofrota/docs/RELATORIO_TECNICO.md"
+            "Código-fonte: desafio mongodb aula4/src<br/>"
+            "Testes: desafio mongodb aula4/tests<br/>"
+            "Decisões: desafio mongodb aula4/docs/DECISOES_ARQUITETURA.md<br/>"
+            "Relatório editável: desafio mongodb aula4/docs/RELATORIO_TECNICO.md"
         ),
     ]
     return story

@@ -99,7 +99,7 @@ ruff format --check .
 ## Documentação
 
 - [`docs/RELATORIO_TECNICO.md`](docs/RELATORIO_TECNICO.md): relatório técnico editável;
-- `output/pdf/relatorio_tecnico_nexofrota.pdf`: versão diagramada para entrega;
+- `relatorio_tecnico_nexofrota.pdf`: versão diagramada para entrega;
 - [`docs/DECISOES_ARQUITETURA.md`](docs/DECISOES_ARQUITETURA.md): decisões e trade-offs.
 
 ## Segurança
