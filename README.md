@@ -12,6 +12,7 @@ integração com APIs e visualização de dados.
 | `exercicio-03-georreferenciamento` | Conversão de CSV para GeoJSON e índice `2dsphere` |
 | `exercicio-04-openf1-data-explorer` | Painel Streamlit para explorar sessões e voltas |
 | `lista-01-redis` | Resolução comentada de 20 exercícios de Redis |
+| `projeto-05-nexofrota` | Plataforma de telemetria com PostgreSQL, MongoDB, mapas e dashboard |
 
 Cada pasta possui instruções próprias de instalação e execução. As aplicações
 leem credenciais por variáveis de ambiente; nenhum segredo deve ser versionado.
