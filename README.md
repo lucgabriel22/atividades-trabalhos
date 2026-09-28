@@ -24,8 +24,3 @@ leem credenciais por variáveis de ambiente; nenhum segredo deve ser versionado.
 - validação de respostas externas antes da persistência;
 - logs e códigos de saída adequados para automação;
 - dependências fixadas em faixas de versões compatíveis.
-
-## Referência dos enunciados
-
-Os temas e objetivos foram baseados nos enunciados públicos do repositório
-As implementações deste repositório foram escritas do zero.
