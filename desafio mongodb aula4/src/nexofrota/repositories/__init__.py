@@ -1,1 +1,0 @@
-"""Repositórios da aplicação."""
