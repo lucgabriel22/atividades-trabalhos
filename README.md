@@ -25,3 +25,11 @@ leem credenciais por variáveis de ambiente; nenhum segredo deve ser versionado.
 - validação de respostas externas antes da persistência;
 - logs e códigos de saída adequados para automação;
 - dependências fixadas em faixas de versões compatíveis.
+
+
+
+## Atividades em grupo
+
+Lucas Gabriel Santos Silva - 37762176
+José Victor dos Santos Lima - 39093034
+Kauã Ravy - 37818902
