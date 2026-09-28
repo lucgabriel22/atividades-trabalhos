@@ -28,5 +28,4 @@ leem credenciais por variáveis de ambiente; nenhum segredo deve ser versionado.
 ## Referência dos enunciados
 
 Os temas e objetivos foram baseados nos enunciados públicos do repositório
-[`aymeesilvestre21/mongodb-exercicios`](https://github.com/aymeesilvestre21/mongodb-exercicios).
 As implementações deste repositório foram escritas do zero.
